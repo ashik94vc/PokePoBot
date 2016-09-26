@@ -1,0 +1,25 @@
+{
+  "name": "pokepo_bot",
+  "version": "1.0.0",
+  "description": "A bot to spam PokePo (can be used for anyone though)",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3",
+    "sleep": "^4.0.0",
+    "telegram-node-bot": "^3.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashik94vc/PokePoBot.git"
+  },
+  "author": "Ashik Vetrivelu <vcashik@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ashik94vc/PokePoBot/issues"
+  },
+  "homepage": "https://github.com/ashik94vc/PokePoBot#readme"
+}
